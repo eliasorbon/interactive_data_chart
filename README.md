@@ -4,7 +4,7 @@ This project demonstrates a simple interactive data visualization using HTML, CS
 
 ## Live Demo
 
-You can view the live demo of this project [here](https://eliasorbon.github.io/interactive_data_chart/index.html).
+You can view the live demo of this project [here](index.html).
 
 ## Features
 
