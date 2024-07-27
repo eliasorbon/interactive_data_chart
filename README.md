@@ -2,9 +2,10 @@
 
 This project demonstrates a simple interactive data visualization using HTML, CSS, and JavaScript. It's designed to showcase basic web development and data representation skills.
 
-## Live Demo
+## View the Project
 
-You can view the live demo of this project [here](index.html).
+- [Live Interactive Chart](https://eliasorbon.github.io/interactive_data_chart/) - See the chart in action!
+- [View Source Code](https://github.com/eliasorbon/interactive_data_chart/blob/main/index.html) - Examine the HTML, CSS, and JavaScript behind the chart.
 
 ## Features
 
@@ -12,9 +13,11 @@ You can view the live demo of this project [here](index.html).
 - Includes an interactive button to generate and display new random data
 - Utilizes the Chart.js library for creating responsive and attractive charts
 
-## Code
+## How It Works
 
-The source code for this project is available in the `index.html` file in this repository. Feel free to explore and modify it!
+1. The chart initially displays random data for each day of the week.
+2. Clicking the "Generate New Data" button creates a new set of random data and updates the chart.
+3. The chart is responsive and will resize based on the viewer's screen size.
 
 ## Future Enhancements
 
